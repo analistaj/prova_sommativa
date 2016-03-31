@@ -224,7 +224,7 @@
           <a href="#" class="fa fa-google-plus"></a>
           <a href="#" class="fa fa-pinterest"></a>
         </div>
-        <div class="copyright"><span class="brand">Bliss </span> &copy; <span id="copyright-year"></span> | <a href="#">Privacy Policy</a> <div>Website designed by <a href="http://www.templatemonster.com/" rel="nofollow">TemplateMonster.com</a></div>
+        <div class="copyright"><span class="brand"> </span> &copy; <span id="copyright-year"></span> | <a href="#">Privacy Policy</a>
         </div>
       </div>
     </div>
