@@ -21,12 +21,12 @@ Route::get('menu', function () {
 	
 Route::get('prenotazioni', function () {
 			return view('index-2');
-		});
+	});
 	
 Route::get('blog', function () {
-				return view('index-3');
-			});
+			return view('index-3');
+	});
 	
 Route::get('dovesiamo', function () {
-					return view('index-4');
-				});
+				return view('index-4');
+	});

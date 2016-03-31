@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Home</title>
+<title>Broccolo Bill - la cucina Veg per la famiglia</title>
 <meta charset="utf-8">
 <meta name = "format-detection" content = "telephone=no" />
 <link rel="icon" href="images/favicon.ico">
@@ -80,7 +80,7 @@
 <!--=====================
           Content
 ======================-->
-<section class="content"><div class="ic">More Website Templates @ TemplateMonster.com - July 30, 2014!</div>
+<section class="content"><div class="ic"></div>
   <div class="container">
     <div class="row">
       <div class="grid_4">
@@ -130,7 +130,7 @@
           <div class="count">1.</div>
           Vivamus at magna non nunc tristique rhoncus. Aliquam nibh ante, egestas id dictum a, commodo. Praesent faucibus malesuada faucibus. Donec laeet metus id laoreet malesuadarem ipsum dolor 
           <br>
-          <a href="#" class="btn">more</a>
+          <a href="#" class="btn">leggi</a>
         </div>
       </div>
       <div class="grid_4">
@@ -138,7 +138,7 @@
           <div class="count">2.</div>
           Dasamus at magna non nunc tristique rhoncus. Kliquam nibh ante, egestas id dictum a, commodo. Praesent faucibus malesuada faucibus. Donec laeet metus id laoreet malesuadarem ipsumer 
           <br>
-          <a href="#" class="btn">more</a>
+          <a href="#" class="btn">leggi</a>
         </div>
       </div>
       <div class="grid_4">
@@ -146,28 +146,28 @@
           <div class="count">3.</div>
           Tervamus at magna non nunc tristique rhoncus. Oliquam nibh ante, egestas id dictum a, commodo. Iraesent faucibus malesuada faucibus. Donec laeet etus id laoreet malesuadarem ipsolo 
           <br>
-          <a href="#" class="btn">more</a>
+          <a href="#" class="btn">leggi</a>
         </div>        
       </div>
       <div class="grid_12">
         <div class="box">
           <div class="row">
             <div class="grid_5 preffix_1">
-              <h2>Welcome</h2>
+              <h2>Le nuove frontiere del gusto</h2>
               <p>Post about this <strong class="color1"><a href="http://blog.templatemonster.com/free-website-templates/" rel="nofollow">freebie</a></strong> will tell all you need to know about it. Need a good choice of <strong class="color1"><a href="http://www.templatemonster.com/properties/topic/food-restaurant/" rel="nofollow">themes</a></strong>? Visit TemplateMonster’s website.</p>
               Aliquam nibh e,estas id dictum a, commodo. Praesent faucibus malesuada faucibusonec laeet metus id laoreet malesuadarem ipsum dolor sit <br>
-              <a href="#" class="btn">more</a>
+              <a href="#" class="btn">leggi</a>
             </div>
             <div class="grid_5">
-              <h2>Feel the Savor of Life</h2>
+              <h2>Assaggia il verde</h2>
               Dervamus at magna non nunc tristique rhoncus. Aliquam nibh ante, egestas id dictum a, commodo. Praesent faucibus malesuada ucibus. Donec laeet metus id laoreet malesuadarem ipsum dosit ametctetur adipiscing elit. Nullam consectetur orci sed nulla facilisis consequat. Curabitur vel lorem sit amet nulla ullamcorper fermentum. <br>
-              <a href="#" class="btn">more</a>
+              <a href="#" class="btn">leggi</a>
             </div>
           </div>
         </div>
       </div>
       <div class="grid_12">
-        <h2>Dishes for You to Try</h2>
+        <h2>Biologico da assaporare</h2>
       </div>
       <div class="gallery">
         <div class="grid_4"><a href="images/big1.jpg" class="gall_item"><img src="images/page1_img4.jpg" alt=""></a><a href="#" class="link1">+</a><div class="clear"></div></div>
@@ -175,7 +175,7 @@
         <div class="grid_4"><a href="images/big3.jpg" class="gall_item"><img src="images/page1_img6.jpg" alt=""></a><a href="#" class="link1">+</a><div class="clear"></div></div>
       </div>
       <div class="grid_4">
-        <h2>Testimonials</h2>
+        <h2>Dicono di noi...</h2>
         <blockquote class="bq1">
           <img src="images/page1_img7.jpg" alt="" class="img_inner fleft noresize">
           <div class="extra_wrapper">
@@ -186,7 +186,7 @@
         </blockquote>
       </div>
       <div class="grid_4">
-        <h2>What’s new</h2>
+        <h2>Cosa c'è di nuovo</h2>
         <div class="block2">
           <time datetime="2014-01-01">11<br>June</time>
           <div class="extra_wrapper">
@@ -201,7 +201,7 @@
         </div>
       </div>
       <div class="grid_4">
-        <h2>Opening Hours</h2>
+        <h2>Quando siamo aperti</h2>
         <ul class="shed">
           <li><span>Breakfast:</span> 8AM - 11AM</li>
           <li><span>Grill Menu:</span> 12AM - 12PM</li>
