@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/prova-sommativa":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/prova-sommativa","hostpath":"C:/Documents/GitHub/prova_sommativa","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Documents/GitHub/prova_sommativa","disabled":false}}}
