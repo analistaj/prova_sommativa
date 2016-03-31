@@ -103,7 +103,7 @@
               </div>
               <div class="map_block">
                 <div class="map_title">Email:</div>
-                <a href="#">mail@demolink.org</a>
+                <a href="#">info@broccolobill.com</a>
               </div>
             </div>
           </div>
@@ -121,7 +121,7 @@
   <div class="container">
     <div class="row">
       <div class="grid_11">
-        <h2>Contact Form</h2>
+        <h2>Contattaci</h2>
         <form id="form" >
         <div class="form_spinner">
         <img src="images/Preloader_4.gif" alt="">
@@ -141,29 +141,29 @@
         </div>
         <div class="response-error-message"></div>
         <label class="name">
-        <input type="text" name="name" placeholder="Name:" value="" data-constraints="@Required @JustLetters" />
-        <span class="empty-message">*This field is required.</span>
-        <span class="error-message">*This is not a valid name.</span>
+        <input type="text" name="name" placeholder="Nome:" value="" data-constraints="@Required @JustLetters" />
+        <span class="empty-message">*Questo campo è richiesto.</span>
+        <span class="error-message">*Questo non è un nome valido.</span>
         </label>         
         <label class="email">
         <input type="text" name="email" placeholder="E-mail:" value="" data-constraints="@Required @Email" />
-        <span class="empty-message">*This field is required.</span>
-        <span class="error-message">*This is not a valid email.</span>
+        <span class="empty-message">*Questo campo è richiesto.</span>
+        <span class="error-message">*Questo non è un nome valido.</span>
         </label>
         <label class="phone">
-        <input type="text" name="phone" placeholder="Phone:" value="" data-constraints="@Required @JustNumbers"/>
-        <span class="empty-message">*This field is required.</span>
-        <span class="error-message">*This is not a valid phone.</span>
+        <input type="text" name="phone" placeholder="Telefono:" value="" data-constraints="@Required @JustNumbers"/>
+        <span class="empty-message">*Questo campo è richiesto.</span>
+        <span class="error-message">*Questo non è un nome valido.</span>
         </label>
         <label class="message">
-        <textarea name="message" placeholder="Message:" data-constraints='@Required @Length(min=20,max=999999)'></textarea>
-        <span class="empty-message">*This field is required.</span>
-        <span class="error-message">*The message is too short.</span>
+        <textarea name="message" placeholder="Messaggio:" data-constraints='@Required @Length(min=20,max=999999)'></textarea>
+        <span class="empty-message">*Questo campo è richiesto.</span>
+        <span class="error-message">*Questo non è un nome valido.</span>
         </label>
         <div class="clear"></div>
         <div class="btns">
-        <a href="#" data-type="reset" class="btn">clear</a>
-        <a href="#" data-type="submit" class="btn">send</a>
+        <a href="#" data-type="reset" class="btn">Cancella</a>
+        <a href="#" data-type="submit" class="btn">Invia</a>
         </div>
         </form>   
       </div>
@@ -183,7 +183,7 @@
           <a href="#" class="fa fa-google-plus"></a>
           <a href="#" class="fa fa-pinterest"></a>
         </div>
-        <div class="copyright"><span class="brand">Bliss </span> &copy; <span id="copyright-year"></span> | <a href="#">Privacy Policy</a> <div>Website designed by <a href="http://www.templatemonster.com/" rel="nofollow">TemplateMonster.com</a></div>
+        <div class="copyright"><span class="brand"> </span> &copy; <span id="copyright-year"></span> | <a href="#">Privacy Policy</a>
         </div>
       </div>
     </div>

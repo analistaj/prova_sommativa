@@ -83,7 +83,7 @@
   <div class="container">
     <div class="row">
       <div class="grid_8">
-        <h2>Reserve Your Table</h2>
+        <h2>Prenota il tuo tavolo</h2>
         <img src="images/page3_img1.jpg" alt="" class="img_inner fleft inn__1">
         <div class="extra_wrapper">
           <div class="text1 tx__1"><a href="#">Vivamus at magna non nunc </a></div>
@@ -92,15 +92,15 @@
           Praesent faucibus malesuada faucibus. Donecertolin laoreet metus id laoreet malesuada.  orem ipsum dolor sit amet, consectetur adipiscing elit. 
         </div>
         <div class="clear"></div>
-        <h2>Useful Information</h2>
+        <h2>Informazioni utili</h2>
         <div class="text1 tx__1"><a href="#">Hivamus at magna non nuncerto limonit nelowert sedrolino. Integer convallis orci vel miеter laoreet, at ornare lorem consequat. Phasellus erat nisl, auctor vel velit sed.</a></div>
         <p>Nehoncus. Aliquam nibh antegestas id ictum ado. Praesenterto faucibus maleada faucibusnec laeet metus id laoreet rolito monert dertolimon.</p>
         <p>Nullam consectetur orci sed nulla facilisisequat. Curabitur vel lorem sit amet nulla perermentum. Aliquam nibh ante, egestas id dictum a, commodo luctus libero. </p>
         Praesent faucibus malesuada faucibus. Donec laoreet metus id laoreet malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur orci sed nulla facilisis consequat. Curabitur vel lorem sit amet nulla ullamcorper fermentum. In vitae varius augue, eu consectetur ligula. <br>
-        <a href="#" class="btn">more</a>
+        <a href="#" class="btn">leggi di più</a>
       </div>
       <div class="grid_4">
-        <h2>Our Hours</h2>
+        <h2>I nostri orari</h2>
         <div class="form_title color1">
         We are open 7 days a week - 8 AM to 12 PM <br>+1 101 889 9898</div>
         <form id="bookingForm">
@@ -149,8 +149,8 @@
             <textarea name="Message" placeHolder="Message:" data-constraints='@NotEmpty @Required @Length(min=20,max=999999)'></textarea>
         </div>
         <div class="ta__right">
-        <a href="#" class="btn" data-type="reset">clear</a>
-        <a href="#" class="btn" data-type="submit">send</a>
+        <a href="#" class="btn" data-type="reset">cancella</a>
+        <a href="#" class="btn" data-type="submit">invia</a>
         </div>
     </form>
       </div>
@@ -170,7 +170,7 @@
           <a href="#" class="fa fa-google-plus"></a>
           <a href="#" class="fa fa-pinterest"></a>
         </div>
-        <div class="copyright"><span class="brand">Bliss </span> &copy; <span id="copyright-year"></span> | <a href="#">Privacy Policy</a> <div>Website designed by <a href="http://www.templatemonster.com/" rel="nofollow">TemplateMonster.com</a></div>
+        <div class="copyright"><span class="brand"></span> &copy; <span id="copyright-year"></span> | <a href="#">Privacy Policy</a>
         </div>
       </div>
     </div>

@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Reservation</title>
+<title>Blog</title>
 <meta charset="utf-8">
 <meta name = "format-detection" content = "telephone=no" />
 <link rel="icon" href="images/favicon.ico">
 <link rel="shortcut icon" href="images/favicon.ico" />
-<link rel="stylesheet" href="booking/css/booking.css">
 <link rel="stylesheet" href="css/stuck.css">
 <link rel="stylesheet" href="css/style.css">
 <script src="js/jquery.js"></script>
@@ -18,7 +17,6 @@
 <script src="js/jquery.easing.1.3.js"></script>
 <script src="js/tmStickUp.js"></script>
 <script src="js/jquery.ui.totop.js"></script>
-    <script src="booking/js/booking.js"></script>
 
 <script>
  $(document).ready(function(){
@@ -63,9 +61,9 @@
               <ul class="sf-menu">
                <li><a href="index.html">home</a></li>
                <li><a href="index-1.html">menu</a></li>
-               <li class="current"><a href="index-2.html">reservation</a></li>
-               <li><a href="index-3.html">blog</a></li>
-               <li><a href="index-4.html">contacts</a></li>
+               <li><a href="index-2.html">prenotazioni</a></li>
+               <li class="current"><a href="index-3.html">blog</a></li>
+               <li><a href="index-4.html">dove siamo</a></li>
              </ul>
             </nav>        
             <div class="clear"></div>
@@ -82,77 +80,135 @@
 <section class="content"><div class="ic">More Website Templates @ TemplateMonster.com - July 30, 2014!</div>
   <div class="container">
     <div class="row">
-      <div class="grid_8">
-        <h2>Reserve Your Table</h2>
-        <img src="images/page3_img1.jpg" alt="" class="img_inner fleft inn__1">
-        <div class="extra_wrapper">
-          <div class="text1 tx__1"><a href="#">Vivamus at magna non nunc </a></div>
-          <p>Rehoncus. Aliquam nibh antegestas id ictum ado. Praesenterto faucibus maleada faucibusnec laeetert metus id laoreet </p>
-          <p>Nullam consectetur orci sed nulla facilisisequaterto. Curabitur vel lorem sit amet nulla perermentum. Aliquam nibh ante, egestas id dictum a, commodo luctus libero.</p>
-          Praesent faucibus malesuada faucibus. Donecertolin laoreet metus id laoreet malesuada.  orem ipsum dolor sit amet, consectetur adipiscing elit. 
+      <div class="grid_7">
+        <div class="blog">
+          <div class="blog_title"><a href="#">Mangiare bene, mangiare meglio </a></div>
+          <img src="images/page4_img1.jpg" alt="">
+          <p>Rehoncus. Aliquam nibh antegestas id ictum ado. Praesenterto faucibus maleada faucibusnec laeetert metus id laoreet. </p>
+          <p>Nullam consectetur orci sed nulla facilisisequaterto. Curabitur vel lorem sit amet nulla perermentum. Aliquam nibh ante, egestas id dictum a, commodo luctus libero. Raesent faucibus malesuada faucibus. Donecertolin laoreet metus id laoreet malesuadarem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur orci sed nulla facilisis consequat. </p>
+          <table>
+          <tbody>
+            <tr>
+              <td><time datetime="2014-01-01">
+                <span class="fa fa-calendar"></span>
+                January 20, 2014   
+              </time> </td>
+              <td><a href="#"><div class="fa fa-user"></div> Admin</a></td>
+              <td><a href="#"><span class="fa fa-link"></span> Permalink</a></td>
+            </tr>
+            <tr>
+              <td><div class="fa fa-bookmark"></div> Uncategorized  </td>
+              <td colspan="2"><div class="fa fa-tag"></div> No tags</td>
+            </tr>
+            <tr>
+              <td><div class="fa fa-comments"></div> No commentts   </td>
+              <td colspan="2"><div class="fa fa-eye"></div>182
+              <div class="fa fa-thumbs-up"></div>0
+              <div class="fa fa-thumbs-down"></div>0</td>
+            </tr>
+          </tbody>
+        </table>
+          <a href="#" class="btn">more</a>
         </div>
-        <div class="clear"></div>
-        <h2>Useful Information</h2>
-        <div class="text1 tx__1"><a href="#">Hivamus at magna non nuncerto limonit nelowert sedrolino. Integer convallis orci vel miеter laoreet, at ornare lorem consequat. Phasellus erat nisl, auctor vel velit sed.</a></div>
-        <p>Nehoncus. Aliquam nibh antegestas id ictum ado. Praesenterto faucibus maleada faucibusnec laeet metus id laoreet rolito monert dertolimon.</p>
-        <p>Nullam consectetur orci sed nulla facilisisequat. Curabitur vel lorem sit amet nulla perermentum. Aliquam nibh ante, egestas id dictum a, commodo luctus libero. </p>
-        Praesent faucibus malesuada faucibus. Donec laoreet metus id laoreet malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur orci sed nulla facilisis consequat. Curabitur vel lorem sit amet nulla ullamcorper fermentum. In vitae varius augue, eu consectetur ligula. <br>
-        <a href="#" class="btn">more</a>
+        <div class="blog">
+          <div class="blog_title"><a href="#">Givamus at magna non nuncerto limonit </a></div>
+          <img src="images/page4_img2.jpg" alt="">
+          <p>Johoncus. Aliquam nibh antegestas id ictum ado. Praesenterto faucibus maleada faucibusnec laeetert metus id laoreet wer.</p>
+          <p>Ollam consectetur orci sed nulla facilisisequaterto. Curabitur vel lorem sit amet nulla perermentum. Aliquam nibh ante, egestas id dictum a, commodo luctus libero. Raesent faucibus malesuada faucibus. Donecertolin laoreet metus id laoreet malesuadarem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur orci sed nulla facilisis consequat. </p>
+          <table>
+          <tbody>
+            <tr>
+              <td><time datetime="2014-01-01">
+                <span class="fa fa-calendar"></span>
+                January 20, 2014   
+              </time> </td>
+              <td><a href="#"><div class="fa fa-user"></div> Admin</a></td>
+              <td><a href="#"><span class="fa fa-link"></span> Permalink</a></td>
+            </tr>
+            <tr>
+              <td><div class="fa fa-bookmark"></div> Uncategorized  </td>
+              <td colspan="2"><div class="fa fa-tag"></div> No tags</td>
+            </tr>
+            <tr>
+              <td><div class="fa fa-comments"></div> No commentts   </td>
+              <td colspan="2"><div class="fa fa-eye"></div>182
+              <div class="fa fa-thumbs-up"></div>0
+              <div class="fa fa-thumbs-down"></div>0</td>
+            </tr>
+          </tbody>
+        </table>
+          <a href="#" class="btn">more</a>
+        </div>
+        <div class="blog">
+          <div class="blog_title"><a href="#">At magna non nuncerto limonit nelowert </a></div>
+          <img src="images/page4_img3.jpg" alt="">
+          <p>Aliquam nibh antegestas id ictum ado. Praesenterto faucibus maleada faucibusnec laeetert metus id laoreet </p>
+          <p>Nullam consectetur orci sed nulla facilisisequaterto. Curabitur vel lorem sit amet nulla perermentum. Aliquam nibh ante, egestas id dictum a, commodo luctus libero. Raesent faucibus malesuada faucibus. Donecertolin laoreet metus id laoreet malesuadarem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur orci sed nulla facilisis consequater. </p>
+          <table>
+          <tbody>
+            <tr>
+              <td><time datetime="2014-01-01">
+                <span class="fa fa-calendar"></span>
+                January 20, 2014   
+              </time> </td>
+              <td><a href="#"><div class="fa fa-user"></div> Admin</a></td>
+              <td><a href="#"><span class="fa fa-link"></span> Permalink</a></td>
+            </tr>
+            <tr>
+              <td><div class="fa fa-bookmark"></div> Uncategorized  </td>
+              <td colspan="2"><div class="fa fa-tag"></div> No tags</td>
+            </tr>
+            <tr>
+              <td><div class="fa fa-comments"></div> No commentts   </td>
+              <td colspan="2"><div class="fa fa-eye"></div>182
+              <div class="fa fa-thumbs-up"></div>0
+              <div class="fa fa-thumbs-down"></div>0</td>
+            </tr>
+          </tbody>
+        </table>
+          <a href="#" class="btn">more</a>
+        </div>
       </div>
-      <div class="grid_4">
-        <h2>Our Hours</h2>
-        <div class="form_title color1">
-        We are open 7 days a week - 8 AM to 12 PM <br>+1 101 889 9898</div>
-        <form id="bookingForm">
-          <div class="tmInput">
-              <input name="Name" placeHolder="Name:" type="text" data-constraints='@NotEmpty @Required @AlphaSpecial'>
+      <div class="grid_4 preffix_1">
+        <h2>Di cosa ci piace parlare</h2>
+        <ul class="list">
+          <li><a href="#">Herem ipsum dolor </a></li>
+          <li><a href="#">sit Komet,tetur </a></li>
+          <li><a href="#">Odipiscingt</a></li>
+          <li><a href="#">In mollis eratttis </a></li>
+          <li><a href="#">Neque Loacilisis, sit </a></li>
+          <li><a href="#">Amet ultret</a></li>
+          <li><a href="#">Icies erat rutrums </a></li>
+        </ul>
+        <h2>Post recenti</h2>
+        <div class="block3">
+          <img src="images/page4_img4.jpg" alt="" class="img_inner noresize fleft">
+          <div class="extra_wrapper">
+            <div class="text1 color1">
+              <time datetime="2014-01-01">20-05-2014</time>
+              <a href="#">Hivamus at magnate </a>
+            </div>Rehoncus. Aliquam nibh tegestas id ictum ado. Praesentertoaucibus maleada faucibusnec <a href="#" class="color1">[...]</a>
           </div>
-        <div class="tmInput">
-          <input name="Email" placeHolder="Email:" type="text" data-constraints="@NotEmpty @Required @Email">
-        </div>     
-         <div class="clear f_sep1"></div>
-          <strong class="dt">Check-in</strong>
-         <label class="tmDatepicker">
-          <input type="text" name="Date"  placeHolder='10/05/2014' data-constraints="@NotEmpty @Required @Date">
-        </label>
-        <div class="clear"></div>
-          <strong class="dt">Check-out</strong>
-        <label class="tmDatepicker">
-          <input type="text" name="Date"  placeHolder='20/05/2014' data-constraints="@NotEmpty @Required @Date">
-        </label>
-        <div class="clear"></div>
-        <div class="fl1 ">
-        <em>Adults</em>
-        <select name="Adults" class="tmSelect auto" data-class="tmSelect tmSelect2" data-constraints="">
-            <option>1</option>
-            <option>1</option>
-            <option>2</option>
-            <option>3</option>
-        </select>
-        <div class="clear height1"></div>
-       
-        
         </div>
-        <div class="fl1">
-        <em>Children</em>
-        <select name="Children" class="tmSelect auto" data-class="tmSelect tmSelect2" data-constraints="">
-            <option>0</option>
-            <option>0</option>
-            <option>1</option>
-            <option>2</option>
-        </select>
-        
+        <div class="block3">
+          <img src="images/page4_img5.jpg" alt="" class="img_inner noresize fleft">
+          <div class="extra_wrapper">
+            <div class="text1 color1">
+              <time datetime="2014-01-01">25-05-2014</time>
+              <a href="#">Livamus aot magte </a>
+            </div>Tehoncus. Aliquam nibh tegestas id ictum ado. Praesentertoaucibus maleada faucibusnece <a href="#" class="color1">[...]</a>
+          </div>
         </div>
-        <div class="clear"></div>
-        
-        <div class="tmTextarea">
-            <textarea name="Message" placeHolder="Message:" data-constraints='@NotEmpty @Required @Length(min=20,max=999999)'></textarea>
+        <div class="block3">
+          <img src="images/page4_img6.jpg" alt="" class="img_inner noresize fleft">
+          <div class="extra_wrapper">
+            <div class="text1 color1">
+              <time datetime="2014-01-01">28-05-2014</time>
+              <a href="#">Kivamus aagnateme </a>
+            </div>
+            Mehoncusiquam nibh tegestas id ictum ado. Praesentertoaucibus maleada faucibusnec dert <a href="#" class="color1">[...]</a>
+          </div>
         </div>
-        <div class="ta__right">
-        <a href="#" class="btn" data-type="reset">clear</a>
-        <a href="#" class="btn" data-type="submit">send</a>
-        </div>
-    </form>
       </div>
     </div>
   </div>
@@ -170,23 +226,12 @@
           <a href="#" class="fa fa-google-plus"></a>
           <a href="#" class="fa fa-pinterest"></a>
         </div>
-        <div class="copyright"><span class="brand">Bliss </span> &copy; <span id="copyright-year"></span> | <a href="#">Privacy Policy</a> <div>Website designed by <a href="http://www.templatemonster.com/" rel="nofollow">TemplateMonster.com</a></div>
+        <div class="copyright"><span class="brand"></span> &copy; <span id="copyright-year"></span> | <a href="#">Privacy Policy</a>
         </div>
       </div>
     </div>
   </div> 
 </footer> 
-  <script>
-  $(function (){
-        $('#bookingForm').bookingForm({
-            ownerEmail: '#'
-        });
-    })
-    $(function() {
-   $('#bookingForm input, #bookingForm textarea').placeholder();
-  });
-    
-  </script>
 </body>
 </html>
 
