@@ -62,11 +62,11 @@
           <div class="navigation">
             <nav>
               <ul class="sf-menu">
-               <li class="current"><a href="index.blade.php">home</a></li>
-               <li><a href="index-1.blade.php">menu</a></li>
-               <li><a href="index-2.blade.php">prenota</a></li>
-               <li><a href="index-3.blade.php">blog</a></li>
-               <li><a href="index-4.blade.php">dove siamo</a></li>
+               <li class="current"><a href="/">home</a></li>
+               <li><a href="menu">menu</a></li>
+               <li><a href="prenotazioni">prenota</a></li>
+               <li><a href="blog">blog</a></li>
+               <li><a href="dovesiamo">dove siamo</a></li>
              </ul>
             </nav>        
             <div class="clear"></div>

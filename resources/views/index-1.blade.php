@@ -62,11 +62,11 @@
           <div class="navigation ">
             <nav>
               <ul class="sf-menu">
-               <li><a href="index.html">home</a></li>
-               <li class="current"><a href="index-1.html">menu</a></li>
-               <li><a href="index-2.html">reservation</a></li>
-               <li><a href="index-3.html">blog</a></li>
-               <li><a href="index-4.html">contacts</a></li>
+               <li><a href="/">home</a></li>
+               <li class="current"><a href="menu">menu</a></li>
+               <li><a href="prenotazioni">prenotazioni</a></li>
+               <li><a href="blog">blog</a></li>
+               <li><a href="dovesiamo">dove siamo</a></li>
              </ul>
             </nav>        
             <div class="clear"></div>
